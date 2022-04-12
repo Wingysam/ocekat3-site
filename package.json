@@ -1,0 +1,19 @@
+{
+  "name": "ocekat3-site",
+  "version": "1.0.0",
+  "description": "The site I wrote to show OceKat3 how to write a JS site with a frontend/backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": "Wingy <git@wingysam.xyz>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.3",
+    "sleep-promise": "^9.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
